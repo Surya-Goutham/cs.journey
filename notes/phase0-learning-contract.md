@@ -1,7 +1,7 @@
 # Phase 0 — Learning Contract  
 **Project:** Computer Science — Beginner to Expert (Surya’s Path)  
 **Author:** Surya Goutham Abraham Kanikairaj  
-**Date:** $(date +"%B %d, %Y")
+**Date:** Nov 1st 2025
 
 ---
 
@@ -73,4 +73,4 @@ I, **Surya Goutham Abraham Kanikairaj**, commit to this structured, long-term pu
 
 Signed:  
 ✍️ Surya Goutham Abraham Kanikairaj  
-Date: $(date +"%B %d, %Y")
+Date: Nov 1st 2025
